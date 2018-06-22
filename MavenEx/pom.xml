@@ -29,8 +29,6 @@
         <version>3.7.0</version>
         <configuration>
           <!-- release>9</release -->
-          <release>8</release> <!-- because the java version in jenkins is 8 -->
-          <verbose>true</verbose>
         </configuration>
       </plugin>
       <plugin>
